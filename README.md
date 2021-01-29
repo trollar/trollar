@@ -20,7 +20,3 @@ alt="9701.ml"></a>
 ## People I blame
 
 jack, Jack, jAck, jaCk, JacK, JaCK and trollsmile.
-
-## I need help
-
-why I need help jack keeps sending me bragle, do og and bruh beagle photos please help send the wall of shibas.
