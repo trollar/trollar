@@ -2492,7 +2492,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="65.44875 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="66.68875 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2516,11 +2516,11 @@
                   Great maintainer
                   
                     <span class="gh">
-                      ranked 10.8k out of 238m repositories
+                      ranked 10.7k out of 238m repositories
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 2689 stars</div>
+                                <div class="text">Maintaining a repository with 2721 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2591,7 +2591,7 @@
                   Developer
                   
                     <span class="gh">
-                      ranked 7.69m out of 73m users
+                      ranked 7.69m out of 74m users
                     </span>
                   
                 </div>
@@ -2798,7 +2798,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Tue, 13 Jul 2021 06:06:22 (timezone UTC) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Tue, 13 Jul 2021 07:06:10 (timezone UTC) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
